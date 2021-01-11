@@ -1,0 +1,1413 @@
+{
+	"products": [{
+		"id": 1,
+		"slug": "doska_obreznaya_stroitelnaya_1",
+		"name": "Доска обрезная строительная 1",
+		"thumbnail": "/img/products_img/product-1.png",
+		"price": 550,
+		"price_cubic": 550,
+		"price_piece": 1600,
+		"price_pack": 740,
+		"price_square": 1330,
+		"content": "<div class='description'><p>Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.</p></div>",
+		"category_ids": [9],
+		"product_type": "doska",
+		"price_label": "cubic",
+		"date": "2020-12-11T12:11:24.051Z",
+		"poroda": "хвойные породы (сосна, ель)",
+		"class_sort": "1, 2, 3, 4 ГОСТ 8486-86",
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-4"
+			}
+		],
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"description_title": "Производство доски",
+		"description_text": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/video-preview.png",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/description_gallery/description-img-4.png",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/description_gallery/description-img-3.png",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-6"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"slug": "brus_obreznoy_1",
+		"name": "Брус обрезной 1",
+		"price": 700,
+		"price_cubic": 450,
+		"price_piece": 0,
+		"price_pack": 700,
+		"price_square": 0,		
+		"price_label": "pack",
+		"thumbnail": "/img/categories_img/cat-2.png",
+		"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim voluptates voluptatum fugit a",
+		"category_ids": [2],
+		"product_type": "doska",
+		"date": "2020-12-10T12:11:24.051Z",
+		"poroda": "хвойные породы (сосна, ель)",
+		"class_sort": "1, 2, 3, 4 ГОСТ 8486-86",
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-4"
+			}
+		],
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"description_title": "Производство доски",
+		"description_text": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/video-preview.png",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/description_gallery/description-img-4.png",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/description_gallery/description-img-3.png",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-6"
+			}
+		]
+	},	
+	{
+		"id": 7,
+		"slug": "brus_obreznoy_2",
+		"name": "Брус обрезной 2",
+		"price": 6300,
+		"price_cubic": 0,
+		"price_piece": "",
+		"price_pack": 1700,
+		"price_square": 6300,
+		"price_label": "square",
+		"thumbnail": "/img/categories_img/cat-2.png",
+		"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim voluptates voluptatum fugit a",
+		"category_ids": [2],
+		"product_type": "doska",
+		"date": "2020-12-10T12:11:24.051Z",
+		"poroda": "хвойные породы (сосна, ель)",
+		"class_sort": "1, 2, 3, 4 ГОСТ 8486-86",
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-4"
+			}
+		],
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"description_title": "Производство доски",
+		"description_text": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/video-preview.png",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/description_gallery/description-img-4.png",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/description_gallery/description-img-3.png",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-6"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"slug": "brus_obreznoy_3",
+		"name": "Брус обрезной 3",
+		"price": 6767,
+		"price_cubic": 6767,
+		"price_piece": 1040,
+		"price_pack": 700,
+		"price_square": 1300,
+		"price_label": "cubic",
+		"thumbnail": "/img/categories_img/cat-2.png",
+		"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim voluptates voluptatum fugit a",
+		"category_ids": [2],
+		"product_type": "doska",
+		"date": "2020-12-10T12:11:24.051Z",
+		"poroda": "хвойные породы (сосна, ель)",
+		"class_sort": "1, 2, 3, 4 ГОСТ 8486-86",
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-4"
+			}
+		],
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"description_title": "Производство доски",
+		"description_text": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/video-preview.png",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/description_gallery/description-img-4.png",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/description_gallery/description-img-3.png",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-6"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"slug": "profilirovanniy_brus_1",
+		"name": "Профилированный брус 1",
+		"price": 1000,
+		"price_cubic": 1000,
+		"price_piece": 1000,
+		"price_pack": 700,
+		"price_square": 1300,
+		"price_label": "cubic",
+		"thumbnail": "/img/products_img/product-1.png",
+		"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim voluptates voluptatum fugit a",
+		"category_ids": [4],
+		"product_type": "doska",
+		"date": "2020-12-15T12:11:24.051Z",
+		"poroda": "хвойные породы (сосна, ель)",
+		"class_sort": "1, 2, 3, 4 ГОСТ 8486-86",
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-4"
+			}
+		],
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"description_title": "Производство доски",
+		"description_text": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/video-preview.png",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/description_gallery/description-img-4.png",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/description_gallery/description-img-3.png",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-6"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"slug": "profilirovanniy_brus_pod_proekt_1",
+		"name": "Профилированный брус под проект 1",
+		"price": 700,
+		"price_cubic": 450,
+		"price_piece": 1000,
+		"price_pack": 700,
+		"price_square": 1300,
+		"price_label": "pack",
+		"thumbnail": "/img/products_img/product-1.png",
+		"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim voluptates voluptatum fugit a",
+		"category_ids": [6],
+		"product_type": "doska",
+		"date": "2020-12-15T12:11:24.051Z",
+		"poroda": "хвойные породы (сосна, ель)",
+		"class_sort": "1, 2, 3, 4 ГОСТ 8486-86",
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-4"
+			}
+		],
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"description_title": "Производство доски",
+		"description_text": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/video-preview.png",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/description_gallery/description-img-4.png",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/description_gallery/description-img-3.png",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-6"
+			}
+		]		
+	},
+		{
+		"id": 11,
+		"slug": "profilirovanniy_mini_brus_1",
+		"name": "Профилированный мини брус 1",
+		"price": 450,
+		"price_cubic": 450,
+		"price_piece": 1000,
+		"price_pack": 700,
+		"price_square": 1300,
+		"price_label": "cubic",
+		"thumbnail": "/img/products_img/product-1.png",
+		"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim voluptates voluptatum fugit a",
+		"category_ids": [5],
+		"product_type": "doska",
+		"date": "2020-12-15T12:11:24.051Z",
+		"poroda": "хвойные породы (сосна, ель)",
+		"class_sort": "1, 2, 3, 4 ГОСТ 8486-86",
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-4"
+			}
+		],
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"description_title": "Производство доски",
+		"description_text": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/video-preview.png",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/description_gallery/description-img-4.png",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/description_gallery/description-img-3.png",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-6"
+			}
+		]		
+	},
+	{
+		"id": 12,
+		"slug": "suhoy_pilomaterial_1",
+		"name": "Сухой пиломатериал 1",
+		"price": 1300,
+		"price_cubic": 450,
+		"price_piece": 1000,
+		"price_pack": 700,
+		"price_square": 1300,
+		"price_label": "square",
+		"thumbnail": "/img/products_img/product-1.png",
+		"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim voluptates voluptatum fugit a",
+		"category_ids": [3],
+		"product_type": "doska",
+		"date": "2020-12-15T12:11:24.051Z",
+		"poroda": "хвойные породы (сосна, ель)",
+		"class_sort": "1, 2, 3, 4 ГОСТ 8486-86",
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-4"
+			}
+		],
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"description_title": "Производство доски",
+		"description_text": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/video-preview.png",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/description_gallery/description-img-4.png",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/description_gallery/description-img-3.png",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-6"
+			}
+		]		
+	},
+	{
+		"id": 4,
+		"slug": "domokomplekt_iz_mini_brusa_1",
+		"name": "Домокомплект из мини бруса 1",
+		"price": 150000,
+		"thumbnail": "/img/products_img/domkomplekt-2-250x250.jpg",
+		"content": "<h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim voluptates voluptatum fugit a</h2>",
+		"category_ids": [8, 12],
+		"product_type": "domkomplekt",
+		"date": "2020-11-11T12:11:24.051Z",
+		"area": 40,
+		"prices_1": {
+			"title": "Профилированный брус естественной влажности",
+			"pricelist": [
+				{
+					"id": 1,
+					"title": "Брус 150x150:",
+					"price": 150000
+				},
+				{
+					"id": 2,
+					"title": "Брус 150x200:",
+					"price": 315000
+				}
+			]
+		},
+		"prices_2": {
+			"title": "Профилированный брус камерной сушки",
+			"pricelist": [
+				{	
+					"id": 1,
+					"title": "Брус 150x150:",
+					"price": 267000
+				},
+				{
+					"id": 2,
+					"title": "Брус 150x200:",
+					"price": 355000
+				}
+			]
+		},
+		"pilo_price": 13000,
+		"sborka_price": 40000,
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/domkomplekt-4/domkomplekt-5.jpg",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/domkomplekt-4/domkomplekt-2.jpg",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/domkomplekt-4/domkomplekt-3.jpg",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/domkomplekt-4/domkomplekt-4.jpg",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/gallery/domkomplekt-4/domkomplekt-1.jpg",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/gallery/domkomplekt-4/domkomplekt-2.jpg",
+				"alt": "gallery-img-6"
+			},
+			{	
+				"id": 7,
+				"imageURL": "/img/products_img/gallery/domkomplekt-4/domkomplekt-3.jpg",
+				"alt": "gallery-img-7"
+			},
+			{	
+				"id": 8,
+				"imageURL": "/img/products_img/gallery/domkomplekt-4/domkomplekt-4.jpg",
+				"alt": "gallery-img-8"
+			}
+		],
+		"linear_sizes": "5.5x7 метра",
+		"storeys": "1 этаж",
+		"terms": "от 25 дней",
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description_title": "Описание",
+		"description": "<p><strong>Срок производства</strong></p><ul><li>от 1-го дня.</li></ul><p><strong>В данный проект вы можете внести изменения</strong></p><p>Стоимость внесения изменений в проект дополнительно оговаривается с нашим проектировщиком.</p>",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/gallery/domkomplekt-6/domkomplekt-1.jpg",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-1.jpg",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-2.jpg",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-3.jpg",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-4.jpg",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-1.jpg",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-2.jpg",
+				"alt": "gallery-img-6"
+			}
+		]
+	},
+	{
+		"id": 20,
+		"slug": "domokomplekt_iz_mini_brusa_2",
+		"name": "Домокомплект из мини бруса 2",
+		"price": 160000,
+		"thumbnail": "/img/products_img/domkomplekt-3-250x250.jpg",
+		"content": "<h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim voluptates voluptatum fugit a</h2>",
+		"category_ids": [8, 12],
+		"product_type": "domkomplekt",
+		"date": "2020-11-11T12:11:24.051Z",
+		"area": 75,
+		"prices_1": {
+			"title": "Профилированный брус естественной влажности",
+			"pricelist": [
+				{
+					"id": 1,
+					"title": "Брус 150x150:",
+					"price": 160000
+				},
+				{
+					"id": 2,
+					"title": "Брус 150x200:",
+					"price": 315000
+				}
+			]
+		},
+		"prices_2": {
+			"title": "Профилированный брус камерной сушки",
+			"pricelist": [
+				{	
+					"id": 1,
+					"title": "Брус 150x150:",
+					"price": 267000
+				},
+				{
+					"id": 2,
+					"title": "Брус 150x200:",
+					"price": 355000
+				}
+			]
+		},
+		"pilo_price": 13000,
+		"sborka_price": 40000,
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/domkomplekt-20/domkomplekt-5.jpg",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/domkomplekt-20/domkomplekt-2.jpg",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/domkomplekt-20/domkomplekt-3.jpg",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/domkomplekt-20/domkomplekt-4.jpg",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/gallery/domkomplekt-20/domkomplekt-1.jpg",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/gallery/domkomplekt-20/domkomplekt-2.jpg",
+				"alt": "gallery-img-6"
+			},
+			{	
+				"id": 7,
+				"imageURL": "/img/products_img/gallery/domkomplekt-20/domkomplekt-3.jpg",
+				"alt": "gallery-img-7"
+			},
+			{	
+				"id": 8,
+				"imageURL": "/img/products_img/gallery/domkomplekt-20/domkomplekt-4.jpg",
+				"alt": "gallery-img-8"
+			}
+		],
+		"linear_sizes": "5.5x7 метра",
+		"storeys": "1 этаж",
+		"terms": "от 25 дней",
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description_title": "Описание",
+		"description": "<p><strong>Срок производства</strong></p><ul><li>от 1-го дня.</li></ul><p><strong>В данный проект вы можете внести изменения</strong></p><p>Стоимость внесения изменений в проект дополнительно оговаривается с нашим проектировщиком.</p>",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/gallery/domkomplekt-6/domkomplekt-1.jpg",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-1.jpg",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-2.jpg",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-3.jpg",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-4.jpg",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-1.jpg",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-2.jpg",
+				"alt": "gallery-img-6"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"slug": "doska_obreznaya_stroitelnaya_2",
+		"name": "Доска обрезная строительная 2",
+		"price": 1666,
+		"price_cubic": 1666,
+		"price_piece": 1000,
+		"price_pack": 700,
+		"price_square": 1300,
+		"price_label": "cubic",
+		"thumbnail": "/img/products_img/product-2.png",
+		"content": "<h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim voluptates voluptatum fugit a</h2>",
+		"category_ids": [11, 1, 9, 10],
+		"product_type": "doska",
+		"date": "2010-12-11T12:11:24.051Z",
+		"poroda": "хвойные породы (сосна, ель)",
+		"class_sort": "1, 2, 3, 4 ГОСТ 8486-86",
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-4"
+			}
+		],
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"description_title": "Производство доски",
+		"description_text": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/video-preview.png",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/description_gallery/description-img-4.png",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/description_gallery/description-img-3.png",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-6"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"slug": "stenovoy_domokomplekt_1",
+		"name": "Стеновой домокомплект 1",
+		"price": 235000,
+		"thumbnail": "/img/products_img/domkomplekt-1-250x250.jpg",
+		"content": "<h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim voluptates voluptatum fugit a</h2>",
+		"category_ids": [7],
+		"product_type": "domkomplekt",
+		"date": "2020-09-11T12:11:24.051Z",
+		"area": 35.7,
+		"prices_1": {
+			"title": "Профилированный брус естественной влажности",
+			"pricelist": [
+				{
+					"id": 1,
+					"title": "Брус 150x150:",
+					"price": 235000
+				},
+				{
+					"id": 2,
+					"title": "Брус 150x200:",
+					"price": 315000
+				}
+			]
+		},
+		"prices_2": {
+			"title": "Профилированный брус камерной сушки",
+			"pricelist": [
+				{	
+					"id": 1,
+					"title": "Брус 150x150:",
+					"price": 267000
+				},
+				{
+					"id": 2,
+					"title": "Брус 150x200:",
+					"price": 355000
+				}
+			]
+		},
+		"pilo_price": 13000,
+		"sborka_price": 40000,
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-1.jpg",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-2.jpg",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-3.jpg",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-4.jpg",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-1.jpg",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-2.jpg",
+				"alt": "gallery-img-6"
+			},
+			{	
+				"id": 7,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-3.jpg",
+				"alt": "gallery-img-7"
+			},
+			{	
+				"id": 8,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-4.jpg",
+				"alt": "gallery-img-8"
+			}
+		],
+		"linear_sizes": "5.5x7 метра",
+		"storeys": "1 этаж",
+		"terms": "от 25 дней",
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description_title": "Описание",
+		"description": "<p><strong>Срок производства</strong></p><ul><li>от 1-го дня.</li></ul><p><strong>В данный проект вы можете внести изменения</strong></p><p>Стоимость внесения изменений в проект дополнительно оговаривается с нашим проектировщиком.</p>",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/gallery/domkomplekt-6/domkomplekt-1.jpg",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-1.jpg",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-2.jpg",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-3.jpg",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-4.jpg",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-1.jpg",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/gallery/domkomplekt-6/domkomplekt-2.jpg",
+				"alt": "gallery-img-6"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"slug": "doska_obreznaya_promishlennaya_1",
+		"name": "Доска обрезная промышленная 1",
+		"price": 1666,
+		"price_cubic": 1666,
+		"price_piece": 1000,
+		"price_pack": 700,
+		"price_square": 1300,
+		"price_label": "cubic",
+		"thumbnail": "/img/products_img/product-2.png",
+		"content": "<h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim voluptates voluptatum fugit a</h2>",
+		"category_ids": [13],
+		"product_type": "doska",
+		"date": "2010-12-11T12:11:24.051Z",
+		"poroda": "хвойные породы (сосна, ель)",
+		"class_sort": "1, 2, 3, 4 ГОСТ 8486-86",
+		"gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/gallery/slider-img-1.png",
+				"alt": "slider-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/gallery/slider-img-2.png",
+				"alt": "slider-img-4"
+			}
+		],
+		"social": {
+			"whatsapp_link": "#",
+			"viber_link": "#",
+			"telegram_link": "#"
+		},
+		"phone": "<a href='tel:74954344433'>+7 (495) 434-44-33</a>",
+		"description": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"description_title": "Производство доски",
+		"description_text": "Производство пиломатериалов – процесс сложный и ответственный. Здесь необходим профессиональный подход на каждом из этапов работы. Потому наши квалифицированные мастера знают все о свойствах древесины разных пород, о станках и прочем оборудовании для ее обработки. Ленточная технология обеспечивает гладкость пропила и точность геометрических размеров. Круглопильные станки отличаются надежностью, экономичностью и простотой. Для более сложных операций предназначены рейсмусовые, кромкообрезные, фрезерные и другие станки.",
+		"video_id": "1iixR-c9sYw",
+		"video_preview": "/img/products_img/video-preview.png",
+		"description_gallery": [
+			{	
+				"id": 1,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-1"
+			},
+			{	
+				"id": 2,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-2"
+			},
+			{	
+				"id": 3,
+				"imageURL": "/img/products_img/description_gallery/description-img-4.png",
+				"alt": "gallery-img-3"
+			},
+			{	
+				"id": 4,
+				"imageURL": "/img/products_img/description_gallery/description-img-3.png",
+				"alt": "gallery-img-4"
+			},
+			{	
+				"id": 5,
+				"imageURL": "/img/products_img/description_gallery/description-img-1.png",
+				"alt": "gallery-img-5"
+			},
+			{	
+				"id": 6,
+				"imageURL": "/img/products_img/description_gallery/description-img-2.png",
+				"alt": "gallery-img-6"
+			}
+		]
+	}],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Доска обрезная",
+			"slug": "doska_obreznaya",
+			"thumbnail": "/img/categories_img/cat-1.png",
+			"product_ids": [5],
+			"parent_id": 0,
+			"child_categories": [8, 9, 10, 11],
+			"type": "doska",
+			"description_title": "",
+			"description": "<p>Обрезная доска является одним из наиболее популярных натуральных материалов, применяемых в строительной отрасли. Обрезной она называется по причине того, что все ее края аккуратно обрезаны. На ее поверхности полностью отсутствует кора, сучки и прочие дефекты, присущие натуральной древесине. Купить обрезную доску по низкой цене стараются все, кому предстоят любые виды отделочных или строительных работ, ведь данный материал отличается высокой долговечностью и прочностью.</p><p>Доска обрезная сухая отличается доступной стоимостью, цена за куб которой намного ниже любого синтетического отделочного материала. При этом обрезная доска отличается весьма широкой областью применения. Данный материал используется как для черновых, так и для отделочных работ в строительстве, а также благоустройства индивидуального участка.</p><ul><li>Внутренняя и внешняя отделка стен любого строения.</li><li>При укладке напольного покрытия.</li><li>Сооружение построек хозяйственного назначения.</li><li>Работы по обрешетке крыши.</li><li>Строительство забора.</li></ul><p>Кроме этого, доска изготовленная по ГОСТу, широко востребована для изготовления поддонов, ящиков, бочек и другой тары для хранения и транспортировки различных материалов.</p><p>Главное достоинство обрезной доски – цена за куб, однако на этом ее плюсы не заканчиваются. Среди наиболее значимых преимуществ данного материала стоит выделить:</p><ul><li>Экологичность, что объясняется тем, что она изготовлена из натуральной древесины.</li><li>Легкость и удобство обработки.</li><li>Высокая долговечность в процессе эксплуатации.</li><li>Простота транспортировки, потому как доска отличается сравнительно невысоким весом.</li></ul><p>Также, кроме всего вышеперечисленного, стоит отметить и внешнюю привлекательность данного материала, который придаст любой постройке естественный эстетичный вид.</p>"
+		},
+		{
+			"id": 2,
+			"name": "Брус обрезной",
+			"slug": "brus_obreznoy",
+			"thumbnail": "/img/categories_img/cat-2.png",
+			"product_ids": [2,7,8],
+			"parent_id": 0,
+			"child_categories": [],
+			"type": "doska",
+			"description_title": "",
+			"description": "<p>Брус обрезной – обработанное с каждой стороны бревно до квадратной формы. Пользуется спросом в строительстве домов, беседок, временных сооружений, обустройстве загородных участков и т.д. Из него делают различные виды перекрытий (балки, лаги, стены).</p><p>Изготавливается брус обрезной из хвойных пород древесины – сосны и если. Они обладают отличными техническими характеристиками и низкой стоимостью. Крепкий и качественный материал будет еще и долговечным. Благодаря способности выдерживать значительные нагрузки, брус обрезной хвойный отлично подходит для постройки несущих конструкций.</p><p>На нашем производстве брус обрезной обрабатывается с четырех сторон, пропитывается специальным веществом, что делает дерево огнеупорным и влагонепроницаемым. Брус обрезной из хвойных пород сохраняет тепло, проходит специальный контроль и является экологически чистым.</p><p>Обрезной брус – удобный в применении пиломатериал, хорошо держит клей и краску, легко пропитывается антисептиком, имеет эстетические качества. Брус из ели не образовывает трещины и не выделяет смолу.</p><h2>Продажа бруса</h2><p>Купить брус обрезной оптом от производителя можно на нашем сайте. Цена за куб оптимальная и доступная, будет зависеть от размера доски и используемого сорта материала (1 или 2 сорт, размер по ТУ или ГОСТ). Продажа обрезного бруса по низким ценам позволит вам сделать качественный ремонт или строительство  и при этом сэкономить денежные средства. Материал подойдёт для решения различных строительных задач.</p><p>Широкий ассортимент продукции, удобные условия доставки способствуют тому, чтобы вы смогли купить обрезной брус в Москве недорого именно у нас. Стоимость товара зависит от объёма заказа (оптовые цены начинаются при покупке от 15 куб.м). Вы получите брус самого высокого качества в кратчайшие сроки и по выгодной цене.</p>"
+		},
+		{
+			"id": 3,
+			"name": "Сухой пиломатериал",
+			"slug": "suhoy_pilomaterial",
+			"thumbnail": "/img/categories_img/cat-3.png",
+			"product_ids": [12],
+			"parent_id": 0,
+			"child_categories": [],
+			"type": "doska",
+			"description_title": "",
+			"description": "<p>Сухой пиломатериал – это особая продукция с высокой степенью устойчивости к влаге, появлению трещин и деформации. Изготавливается, как правило, из массива ели и сосны. Особый режим сушки в камерах гарантирует высокие технические характеристики. Уже более десяти лет Воскресенский деревообрабатывающий завод занимается производством и продажей сухого пиломатериала. Мы успели накопить громадный опыт, который в сочетании с тщательным контролем процесса гарантирует получение высококачественной продукции.</p><h2>Ассортимент сухого пиломатериала</h2><p>У нас вы можете купить сухой пиломатериал в виде обрезного бруса и обрезной доски. Эта продукция отличается высокими техническими характеристиками и доступной ценой. Такие доски и брус просты в укладке и обработке. Для повышения качества и долговечности можно использовать всевозможные покрытия непосредственно в процессе монтажа.</p><p>Ассортимент продукции представлен пиломатериалами любого размера. Для небольших сооружений оптимальным будет размер 50х150х6000 мм. Более широкие доски подходят для создания несущих элементов. Узкие полотна применяются как для строительства, так и для производства мебели. Для отделочных работ подходит сухой <a href='/'>пиломатериал от производителя</a> толщиной 20 мм. А вот для перекрытий и пола следует брать доску размерами 50х200х6000 мм. Таким образом, для каждого конкретного случая используется определенный тип материала.</p><h2>Доставка сухого пиломатериала</h2><p>Цена сухого пиломатериала варьируется в широких пределах в зависимости от выбранного массива, размера доски и прочих факторов. Уточнить стоимость сухого пиломатериал и задать любые другие вопросы вы можете по телефону <strong><a href='tel:+74959259911'>+7 (495) 925 99 11</a></strong>. Продажа осуществляется как оптом, так и в розницу. Мы можем доставить ваш заказ в любой точку Москвы или региона. Также возможен самостоятельный вывоз материала с нашего склада.</p>"
+		},
+		{
+			"id": 4,
+			"name": "Профилированный брус",
+			"slug": "profilirovanniy_brus",
+			"thumbnail": "/img/categories_img/cat-4.png",
+			"product_ids": [3],
+			"parent_id": 0,
+			"child_categories": [],
+			"type": "doska",
+			"description_title": "",
+			"description": "<p>Воскресенский деревообрабатывающий завод осуществляет продажу и производство профилированного бруса в Московской области более 10 лет. За это время мы, используя наш опыт, подняли на высокий уровень свои технологии производства профилированного бруса.</p><p>Профилированный брус имеет все необходимые сертификаты и отвечает самым современным требованиям.</p><h2>Ассортимент и стоимость профилированного бруса за куб</h2><p>В нашем ассортименте недорого брус профилированный в Москве разных размеров естественной влажности и камерной сушки. Мы предлагаем купить профилированный брус от производителя по низким ценам и различных размеров.</p><p>Используя таблицу расположенную ниже, вы можете заказать профилированный брус в Москве и Московской области необходимого размера, влажности в нужном количестве. Так же для заказа вы можете связаться с нами по телефону <strong><a href='tel:+74959259911'> +7 (495) 925 99 11</a></strong> или отправить заявку на <a href='mailto:info@les-zavod.ru'>info@les-zavod.ru</a></p><p>Нашу продукцию вы можете купить в кредит. Всю информацию вы можете узнать <a href='/credit/' target='_self' rel='noopener noreferrer'>здесь</a></p><p>Антисептируем профилированный брус погружным способом с использованием бесцветного состава Неомид 440 eco — от 1100 руб/1м<sup>3</sup>.</p><p>Осуществляем защиту торцов от растрескивание бесцветным составом Teknos Teknol JRM — от 200 руб/1м<sup>3</sup>.</p><h2>Доставка профилированного бруса</h2><p>Доставка товара осуществляется автотранспортом нашей компании в любые регионы. Если у вас нет собственного автомобиля на котором вы можете привезти купленный у нас деревянный профилированный брус, то обращайтесь к нам. Для того, чтобы узнать сколько стоит, условия и заказать доставку — позвоните по телефону <strong><a href='tel:+74959259911'> +7 (495) 925 99 11</a></strong> и наши менеджеры ответят на все ваши вопросы.</p>"
+		},
+		{
+			"id": 5,
+			"name": "Профилированный мини брус",
+			"slug": "profilirovanniy_mini_brus",
+			"thumbnail": "/img/categories_img/cat-5.png",
+			"product_ids": [11],
+			"parent_id": 0,
+			"child_categories": [],
+			"type": "doska",
+			"description_title": "",
+			"description": "<p>Воскресенский деревообрабатывающий завод производит профилированный мини брус более 10 лет. За это время мы усовершенствовали технологии, модернизировали оборудование и накопили богатый опыт выпуска высококачественной продукции. У нас в продаже профилированный мини брус, произведенный в строгом соответствии с современными ГОСТ и ТУ.</p><p>Профилированный мини брус от производителя изготавливается на современном строгальном и фрезеровальном оборудовании, проходит сушку в современных сушильных камерах и хранится в складских помещениях при определенной температуре и влажности.</p><h2>Ассортимент профилированного мини бруса</h2><p>Чаще всего профилированный мини брус используется при строительстве дачных домов, бань, беседок, террас и других построек, которые не требуют срочной эксплуатации. Мы учитываем потребительский спрос и тенденции рынка и предлагаем большой выбор продукции. На сайте вы можете купить профилированный мини брус нужной вам длины, ширины и толщины.</p><p>Кроме того, мы предлагаем материал из ели и сосны естественной влажности и камерной сушки (влажность 12–16 %). В первом случае цена профилированного мини бруса будет ниже. </p><p>Детально изучить ассортимент, уточнить стоимость профилированного мини бруса при покупке оптом или в розницу и оформить заказ вы можете в представленной ниже таблице. Если у вас возникли вопросы, свяжитесь с нашими менеджерами по телефону <a href='tel:+74959259911'>+7 (495) 925-99-11</a> или отправьте запрос на <a href='mailto:info@les-zavod.ru'>info@les-zavod.ru</a>.</p><p>Антисептируем профилированный брус погружным способом с использованием бесцветного состава Неомид 440 eco — 1100 руб/1м<sup>3</sup>.</p><p>Осуществляем защиту торцов от растрескивание бесцветным составом Teknos Teknol JRM — 200 руб/1м<sup>3</sup>.</p><h2>Доставка профилированного мини бруса</h2><p>При покупке у нас профилированного мини бруса вы можете заказать отправку практически в любой регион страны. Мы располагаем большим автопарком и доставляем продукцию в любых объемах. Машины с грузоподъемностью менее 3 м3 рассчитаны на минимальные заказы, а фуры от 30 м3 перевозят крупнооптовые партии бруса. Рассчитать стоимость доставки вам помогут наши специалисты по телефону <a href='tel:+74959259911'> +7 (495) 925 99 11</a>.</p>"
+		},
+		{
+			"id": 6,
+			"name": "Профилированный брус под проект",
+			"slug": "profilirovanniy_brus_pod_proekt",
+			"thumbnail": "/img/categories_img/cat-6.png",
+			"product_ids": [10],
+			"parent_id": 0,
+			"child_categories": [],
+			"type": "doska",
+			"description_title": "",
+			"description": "<p>Купить профилированный брус под проект – значит получить возможность построить дом буквально за считанные дни. Мы занимаемся производством профилированного бруса под проект с 2006 года. За это время мы приобрели богатый опыт, усовершенствовали технологии и обновили производственные мощности. Комплексное решение задач позволяет нам выпускать высококачественную продукцию и при этом предлагать выгодные цены на профилированный брус под проект.</p><h2>Ассортимент профилированного бруса под проект</h2><p>У нас в продаже профилированный брус под проекты, которые разработали наши специалисты, а также домокомплекты по индивидуальным эскизам. Стандартные проекты предполагают использование материалов стандартных габаритов. Познакомиться со всеми вариантами профилированного бруса вы можете в приведенной ниже таблице. Если у вас есть вопросы, позвоните нашим специалистам по телефону <a href='tel:+74959259911'>+7 (495) 925-99-11</a> или отправьте запрос на <a href='mailto:info@les-zavod.ru'>info@les-zavod.ru</a>.</p><p>Мы предлагаем материалы из хвойных пород древесины естественной влажности и профилированный брус под проект от производителя камерной сушки (влажностью 18–25 %) оптом и в розницу.</p><p>Стоимость профилированного бруса под проект зависит от размера изделий, степени влажности, объема партии.</p><p>Антисептируем профилированный брус погружным способом с использованием бесцветного состава Неомид 440 eco — от 1100 руб/1м<sup>3</sup>.</p><p>Осуществляем защиту торцов от растрескивание бесцветным составом Teknos Teknol JRM — от 200 руб/1м<sup>3</sup>.</p><h2>Доставка профилированного бруса под проект:</h2><p>Воскресенский деревообрабатывающий завод располагает собственным автопарком. Это позволяет нам осуществлять доставку материалов по Москве, Московской области и в регионы России. Мы отправляем заказы любого объема. Розничные заказы доставляются небольшими машинами. Крупные оптовые партии мы отправляем фурами от 30 м3 и более. Менеджеры компании помогут вам подобрать транспорт и рассчитать стоимость доставки. Для этого свяжитесь с ними по телефону <a href='tel:+74959259911'> +7 (495) 925 99 11</a>.</p>"
+		},
+		{
+			"id": 7,
+			"name": "Стеновые домокомплекты",
+			"slug": "stenoviye_domokomplekty",
+			"thumbnail": "/img/categories_img/cat-7.png",
+			"product_ids": [6],
+			"parent_id": 0,
+			"child_categories": [],
+			"type": "domkomplekt"
+		},
+		{
+			"id": 8,
+			"name": "Домокомплекты из мини бруса",
+			"slug": "domokomplekty_iz_mini_brusa",
+			"thumbnail": "/img/categories_img/cat-8.png",
+			"product_ids": [4],
+			"parent_id": 0,
+			"child_categories": [],
+			"type": "domkomplekt"
+		},
+		{
+			"id": 9,
+			"name": "Доска обрезная строительная",
+			"slug": "doska_obreznaya_stroitelnaya",
+			"thumbnail": "/img/categories_img/cat-1.png",
+			"product_ids": [1,5],
+			"parent_id": 1,
+			"child_categories": [10, 11],
+			"type": "doska"
+		},
+		{
+			"id": 10,
+			"name": "Досочка",
+			"slug": "dosochka",
+			"thumbnail": "/img/categories_img/cat-8.png",
+			"product_ids": [5],
+			"parent_id": 9,
+			"child_categories": [11],
+			"type": "doska"
+		},
+		{
+			"id": 11,
+			"name": "Досочка досочки",
+			"slug": "dosochka_dosochki",
+			"thumbnail": "/img/categories_img/cat-8.png",
+			"product_ids": [5],
+			"parent_id": 10,
+			"child_categories": [],
+			"type": "doska"
+		},
+		{
+			"id": 12,
+			"name": "Поддомкомплект",
+			"slug": "poddomkomplekt",
+			"thumbnail": "/img/categories_img/cat-8.png",
+			"product_ids": [4, 20],
+			"parent_id": 8,
+			"child_categories": [],
+			"type": "domkomplekt"
+		},
+		{
+			"id": 13,
+			"name": "Доска обрезная промышленная",
+			"slug": "doska_obreznaya_promishlennaya",
+			"thumbnail": "/img/categories_img/cat-1.png",
+			"product_ids": [9],
+			"parent_id": 1,
+			"child_categories": [10, 11],
+			"type": "doska"
+		}
+	],
+	"production_page_gallery": {
+		"photos": [
+			{
+				"id": 1,
+				"alt": "production-1",
+				"imageURL": "/img/production_gallery_img/production-1.png"		
+			},
+			{
+				"id": 2,
+				"alt": "production-2",
+				"imageURL": "/img/production_gallery_img/production-2.png"			
+			},
+			{
+				"id": 3,
+				"alt": "production-3",
+				"imageURL": "/img/production_gallery_img/production-3.png"		
+			},
+			{
+				"id": 4,
+				"alt": "production-4",
+				"imageURL": "/img/production_gallery_img/production-4.png"			
+			},
+			{
+				"id": 5,
+				"alt": "production-1",
+				"imageURL": "/img/production_gallery_img/production-1.png"		
+			},
+			{
+				"id": 6,
+				"alt": "production-2",
+				"imageURL": "/img/production_gallery_img/production-2.png"			
+			},
+			{
+				"id": 7,
+				"alt": "production-3",
+				"imageURL": "/img/production_gallery_img/production-3.png"				
+			},
+			{
+				"id": 8,
+				"alt": "production-4",
+				"imageURL": "/img/production_gallery_img/production-4.png"		
+			}
+		]
+	}
+}
