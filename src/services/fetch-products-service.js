@@ -1,5 +1,6 @@
 export default class FetchProductsService {
-	_baseURL = 'http://localhost:3001';
+	_staticURL = 'http://localhost:3001';
+	_baseURL =  this._staticURL + '/api';
 
 	getProducts = () => fetch(this._baseURL + '/products').then(res => res.json())
 
@@ -14,18 +15,18 @@ export default class FetchProductsService {
 			return {
 				...product,
 				link: `/product/${product.slug}`,
-				thumbnail: product.thumbnail !== '' ? this._baseURL + product.thumbnail : '',
-				video_preview: this._baseURL + product.video_preview,
+				thumbnail: product.thumbnail !== '' ? this._staticURL + product.thumbnail : '',
+				video_preview: this._staticURL + product.video_preview,
 				gallery: product.gallery && product.gallery.map(img => {
 					return {
 						...img,
-						imageURL: this._baseURL + img.imageURL
+						imageURL: this._staticURL + img.imageURL
 					};
 				}),
 				description_gallery: product.description_gallery && product.description_gallery.map(img => {
 					return {
 						...img,
-						imageURL: this._baseURL + img.imageURL
+						imageURL: this._staticURL + img.imageURL
 					};
 				})
 			}
@@ -36,7 +37,7 @@ export default class FetchProductsService {
 			return {
 				...cat,
 				link: `/catalog/${cat.slug}`,
-				thumbnail: this._baseURL + cat.thumbnail
+				thumbnail: this._staticURL + cat.thumbnail
 			};
 		});
 	})
@@ -85,7 +86,7 @@ export default class FetchProductsService {
 				return {
 					...cat,
 					link: `/catalog/${cat.slug}`,
-					thumbnail: cat.thumbnail !== '' ? this._baseURL + cat.thumbnail : ''
+					thumbnail: cat.thumbnail !== '' ? this._staticURL + cat.thumbnail : ''
 				};
 			});
 		})
@@ -117,7 +118,7 @@ export default class FetchProductsService {
 			return {
 				...product,
 				link: `/product/${product.slug}`,
-				thumbnail: product.thumbnail !== '' ? this._baseURL + product.thumbnail : ''
+				thumbnail: product.thumbnail !== '' ? this._staticURL + product.thumbnail : ''
 			};
 		}));
 	}
@@ -128,7 +129,7 @@ export default class FetchProductsService {
 			return {
 				...product,
 				link: `/product/${product.slug}`,
-				thumbnail: product.thumbnail !== '' ? this._baseURL + product.thumbnail : ''
+				thumbnail: product.thumbnail !== '' ? this._staticURL + product.thumbnail : ''
 			};
 		}));
 	}
@@ -137,7 +138,7 @@ export default class FetchProductsService {
 		.then(gallery => gallery.map(photo => {
 			return {
 				...photo,
-				imageURL: this._baseURL + photo.imageURL
+				imageURL: this._staticURL + photo.imageURL
 			};
 		}))
 };

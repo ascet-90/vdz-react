@@ -10,9 +10,9 @@ dotenv.config();
 const app = express();
 
 app.use(cors());
-app.use(express.static('public'));
+app.use('/', express.static(path.join(__dirname, '../public')));
 
-app.post('/post', multer.array(), function(req, res, next) {
+app.post('/api/post', multer.array(), function(req, res) {
 	console.log(req.body);
 	res.send({status: 'ok'});
 });	
@@ -38,7 +38,7 @@ function sortBy(sort, data, order = 'asc') {
   });	
 }
 
-app.get('/products', function(req, res, next) {
+app.get('/api/products', function(req, res) {
 	fs.readFile(path.join(__dirname, 'database.json'), 'utf8', function (err, data) {
 	  if (err) throw err;
 	  const products = JSON.parse(data).products;
@@ -46,7 +46,7 @@ app.get('/products', function(req, res, next) {
 	});
 });	
 
-app.get('/product/:slug', function(req, res, next) {
+app.get('/api/product/:slug', function(req, res) {
 	fs.readFile(path.join(__dirname, 'database.json'), 'utf8', function (err, data) {
 	  if (err) throw err;
 	  const products = JSON.parse(data).products;
@@ -59,7 +59,7 @@ app.get('/product/:slug', function(req, res, next) {
 	});
 });
 
-app.get('/categories', function(req, res, next) {
+app.get('/api/categories/', function(req, res) {
 	fs.readFile(path.join(__dirname, 'database.json'), 'utf8', function (err, data) {
 	  if (err) throw err;
 	  const categories = JSON.parse(data).categories;
@@ -71,7 +71,7 @@ app.get('/categories', function(req, res, next) {
 	});
 });
 
-app.get('/product_cats/:id', function(req, res, next) {
+app.get('/api/product_cats/:id', function(req, res) {
 	fs.readFile(path.join(__dirname, 'database.json'), 'utf8', function (err, data) {
 	  if (err) throw err;
 	  const products = JSON.parse(data).products;
@@ -86,7 +86,7 @@ app.get('/product_cats/:id', function(req, res, next) {
 	});
 });
 
-app.get('/products_with_cats', function(req, res, next) {
+app.get('/api/products_with_cats', function(req, res) {
 	fs.readFile(path.join(__dirname, 'database.json'), 'utf8', function (err, data) {
 	  if (err) throw err;
 	  const products = JSON.parse(data).products;
@@ -106,7 +106,7 @@ app.get('/products_with_cats', function(req, res, next) {
 });
 
 
-app.get('/subcategories/:catId', function(req, res, next) {
+app.get('/api/subcategories/:catId', function(req, res) {
 	fs.readFile(path.join(__dirname, 'database.json'), 'utf8', function (err, data) {
 	  if (err) throw err;
 	  const categories = JSON.parse(data).categories;
@@ -130,7 +130,7 @@ app.get('/subcategories/:catId', function(req, res, next) {
 	});
 });
 
-app.get('/category/:slug', function(req, res, next) {
+app.get('/api/category/:slug', function(req, res) {
 	fs.readFile(path.join(__dirname, 'database.json'), 'utf8', function (err, data) {
 		if (err) throw err;
 	  const categories = JSON.parse(data).categories;
@@ -142,7 +142,7 @@ app.get('/category/:slug', function(req, res, next) {
 	  }	 
 	});
 });
-app.get('/category', function(req, res, next) {
+app.get('/api/category', function(req, res) {
 	fs.readFile(path.join(__dirname, 'database.json'), 'utf8', function (err, data) {
 		if (err) throw err;
 	  const categories = JSON.parse(data).categories;
@@ -155,7 +155,7 @@ app.get('/category', function(req, res, next) {
 	});
 });
 
-app.get('/productsForCategories/', function(req, res, next) {
+app.get('/api/productsForCategories/', function(req, res) {
 	fs.readFile(path.join(__dirname, 'database.json'), 'utf8', function (err, data) {
 		if (err) throw err;
 	  const categories = JSON.parse(data).categories;
@@ -189,7 +189,7 @@ app.get('/productsForCategories/', function(req, res, next) {
 	 	setTimeout(() => res.json(result), 1000);
 	});
 });
-app.get('/similarProducts/:productId', function(req, res, next) {
+app.get('/api/similarProducts/:productId', function(req, res) {
 	fs.readFile(path.join(__dirname, 'database.json'), 'utf8', function (err, data) {
 		if (err) throw err;
 	  const categories = JSON.parse(data).categories;
@@ -213,12 +213,16 @@ app.get('/similarProducts/:productId', function(req, res, next) {
 	});
 });
 
-app.get('/production_gallery', function(req, res, next) {
+app.get('/api/production_gallery', function(req, res) {
 	fs.readFile(path.join(__dirname, 'database.json'), 'utf8', function (err, data) {
 		if (err) throw err;
 		const photos = JSON.parse(data).production_page_gallery.photos;
 		res.json(photos);
 	});
+});
+
+app.get('/*', function(req, res) {
+	res.sendFile(path.join(__dirname, '../public/index.html'));
 });
 
 app.listen(3001);
