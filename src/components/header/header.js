@@ -33,9 +33,13 @@ const Header = ({location, onModalToggle}) => {
 	
 	useEffect(() => {		
 		function toggleMobileMenu() {
-			if(window.innerWidth > 1024) {
-				document.body.style.overflowY = 'auto';
-				setMenuOpened(false);
+			if(window.innerWidth > 1024) {				
+				setMenuOpened(opened => {
+					if(opened) {
+						document.body.style.overflowY = 'auto';
+					}
+					return false;
+				});
 			}
 		}
 		let headerHeight = headerTop.current.offsetHeight;		

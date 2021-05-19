@@ -104,3 +104,7 @@ dist
 .tern-port
 # production
 /build
+
+#server
+/server/public/*
+!/server/public/img

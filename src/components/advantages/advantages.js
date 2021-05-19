@@ -5,8 +5,9 @@ import adv2 from '../../img/adv-2.png';
 import adv3 from '../../img/adv-3.png';
 import adv4 from '../../img/adv-4.png';
 import adv5 from '../../img/adv-5.png';
+import React from 'react';
 
-const Advantages = () => {
+const Advantages = React.memo(() => {
 	const advantages = [
   	{
   		id: 1,
@@ -14,7 +15,6 @@ const Advantages = () => {
   		textContent: '<p>Существуем на рынке<br/><strong>более 15 лет</strong></p>'
   	},
   	{
-  		id: 2,
   		icon: adv2,
   		textContent: '<p>Собственная<br/><strong>лесозаготовка</strong></p>'
   	},
@@ -59,6 +59,6 @@ const Advantages = () => {
 			</div>
 		</section>
   );
-};
+});
 
 export default Advantages;

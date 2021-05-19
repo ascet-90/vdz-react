@@ -25,9 +25,9 @@ const CartPage = ({postForm}) => {
 	}, []);
 
 	const useHideZeroPriceInputs = cartProducts => {
-		const [cartProductsPrev, setCartProductsPrev] = useState(0);
+		const cartProductsPrev = useRef(0);
 		useEffect(() => {			
-			if(cartProductsPrev === 0 && cartProducts.length > 0) {
+			if(cartProductsPrev.current === 0 && cartProducts.length > 0) {
 				const products = cartProducts.map(cartProduct => {
 					return {
 						...cartProduct,
@@ -39,22 +39,21 @@ const CartPage = ({postForm}) => {
 				});
 				onCartProductsChange(products);
 			}
-			setCartProductsPrev(cartProducts.length);
+			cartProductsPrev.current = cartProducts.length;
 		}, [cartProducts, cartProductsPrev]);
 	};
 
-	useHideZeroPriceInputs(cartProducts);	
+	useHideZeroPriceInputs(cartProducts);		
 
-	const onProductDelete = product => {
-		const delProduct = {...product};
-		delProduct.countPriceCubic = null;
-		delProduct.countPricePiece = null;
-		delProduct.countPricePack = null;
-		delProduct.countPriceSquare = null;
-		onCartProductsChange(delProduct);
-	};
-
-	const cartItems = cartProducts.map((cartProduct, index) => {
+	const cartItems = useMemo(() => cartProducts.map((cartProduct, index) => {
+		const onProductDelete = product => {
+			const delProduct = {...product};
+			delProduct.countPriceCubic = null;
+			delProduct.countPricePiece = null;
+			delProduct.countPricePack = null;
+			delProduct.countPriceSquare = null;
+			onCartProductsChange(delProduct);
+		};
 		const priceInputs = [];
 		if(cartProduct.countPriceCubic !== null) {
 			const priceInput = (
@@ -208,7 +207,7 @@ const CartPage = ({postForm}) => {
 			</div>
 		);
 		return cartItem;
-	});
+	}), [cartProducts, onCartProductsChange]);
 	
 	const totalSum = cartProducts.reduce((acc, cartProduct) => {
 		return acc + cartProduct.priceSum;
