@@ -46,25 +46,27 @@ const ModalOrderDom = ({show, onShowToggle, postForm, id, formTitle, formSubtitl
 	return (
 		<div id={id} className={classes.join(" ")} onClick={onModalClick}>
 		  <div className="modal_sandbox"></div>
-		  <div className="modal_box">
-		    <div className="modal_body" ref={modalBody}>
-		    	<div className="form">
-		    		<ModalFormDom 
-		    			formTitle={formTitle}
-		    			formSubtitle={formSubtitle}
-		    			submitText={submitText}
-		    			ref={form}
-		    			formIsSent={formSent}
-		    			onSubmit={onSubmit}
-		    			onPolicyClick={onShowToggle}>
-		    			{hiddenInputInfo}
-		    		</ModalFormDom>
-		    		<div className="close" onClick={onShowToggle}>
-		    			<img alt="close" src={close}/>
-		    		</div>
-		    		{formSent && <div className="form_sent">Письмо успешно отправлено! Спасибо за заявку!</div>}
-		    	</div>
-		    </div>
+		  <div className="modal_inner">
+			  <div className="modal_box">
+			    <div className="modal_body" ref={modalBody}>
+			    	<div className="form">
+			    		<ModalFormDom 
+			    			formTitle={formTitle}
+			    			formSubtitle={formSubtitle}
+			    			submitText={submitText}
+			    			ref={form}
+			    			formIsSent={formSent}
+			    			onSubmit={onSubmit}
+			    			onPolicyClick={onShowToggle}>
+			    			{hiddenInputInfo}
+			    		</ModalFormDom>
+			    		<div className="close" onClick={onShowToggle}>
+			    			<img alt="close" src={close}/>
+			    		</div>
+			    		{formSent && <div className="form_sent">Письмо успешно отправлено! Спасибо за заявку!</div>}
+			    	</div>
+			    </div>
+			  </div>
 		  </div>
 		</div>
 	);

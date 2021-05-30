@@ -1652,12 +1652,9 @@ ul, ol{
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: 9999;
-    overflow: auto;
-    overflow-x: hidden;
+    z-index: 9999;    
     opacity: 0;
-    visibility: hidden;
-    background-color: rgba(0,0,0,.8);
+    visibility: hidden;    
     transition: opacity .4s,visibility .4s;
 }
 .modal.open {
@@ -1665,11 +1662,21 @@ ul, ol{
     visibility: visible;
 }
 .modal_sandbox {
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;    
+    background-color: rgba(0,0,0,.8);
+}
+.modal_inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: auto;
+    overflow-x: hidden;
 }
 .modal .modal_box {
     position: absolute;

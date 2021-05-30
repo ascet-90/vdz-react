@@ -41,23 +41,25 @@ const ModalOrder = ({id, onShowToggle, show}) => {
 	return (
 		<div id={id} className={classes.join(" ")} onClick={onModalClick}>
 		  <div className="modal_sandbox"></div>
-		  <div className="modal_box">
-		    <div className="modal_body" ref={modalBody}>
-		      <div className="form">
-		        <div className="form_title">Товар добавлен в корзину</div>
-		        <div className="form_product_info">
-		        	<div className="form_product_info_count">Товаров: <span>{productsCount}</span> </div>
-		        	<div className="form_product_info_sum">На сумму: <span>{number_format(productsSum, 0, '.', ' ')}</span> руб.</div>
-		        </div>
-		        <div className="form_links d-flex">
-		        	<Link to="/cart" onClick={onShowToggle}>Перейти в корзину</Link>
-		        	<button onClick={onShowToggle}>Продолжить покупку</button>
-		        </div>
-		        <div className="close" onClick={onShowToggle}>
-		          <img alt="close" src={closeIcon}/>
-		        </div>
-		      </div>
-		    </div>
+		  <div className="modal_inner">
+			  <div className="modal_box">
+			    <div className="modal_body" ref={modalBody}>
+			      <div className="form">
+			        <div className="form_title">Товар добавлен в корзину</div>
+			        <div className="form_product_info">
+			        	<div className="form_product_info_count">Товаров: <span>{productsCount}</span> </div>
+			        	<div className="form_product_info_sum">На сумму: <span>{number_format(productsSum, 0, '.', ' ')}</span> руб.</div>
+			        </div>
+			        <div className="form_links d-flex">
+			        	<Link to="/cart" onClick={onShowToggle}>Перейти в корзину</Link>
+			        	<button onClick={onShowToggle}>Продолжить покупку</button>
+			        </div>
+			        <div className="close" onClick={onShowToggle}>
+			          <img alt="close" src={closeIcon}/>
+			        </div>
+			      </div>
+			    </div>
+			  </div>
 		  </div>
 		</div>
 	);

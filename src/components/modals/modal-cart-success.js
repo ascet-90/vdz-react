@@ -28,16 +28,18 @@ const ModalCartSuccess = ({id, onShowToggle, show}) => {
 	return (
 		<div id={id} className={classes.join(" ")} onClick={onModalClick}>
 		  <div className="modal_sandbox"></div>
-		  <div className="modal_box">
-		    <div className="modal_body" ref={modalBody}>
-		      <div className="form">
-		        <div className="form_title">Спасибо за заказ!</div>
-		        <div className="form_subtitle">Ваша заявка отправлена!</div>		        
-		        <div className="close" onClick={onShowToggle}>
-		          <img alt="close" src={closeIcon}/>
-		        </div>
-		      </div>
-		    </div>
+		  <div className="modal_inner">
+			  <div className="modal_box">
+			    <div className="modal_body" ref={modalBody}>
+			      <div className="form">
+			        <div className="form_title">Спасибо за заказ!</div>
+			        <div className="form_subtitle">Ваша заявка отправлена!</div>		        
+			        <div className="close" onClick={onShowToggle}>
+			          <img alt="close" src={closeIcon}/>
+			        </div>
+			      </div>
+			    </div>
+			  </div>
 		  </div>
 		</div>
 	);
